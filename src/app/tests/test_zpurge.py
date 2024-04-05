@@ -1,0 +1,1 @@
+# Generate here two methods to delete all the existing entries in the database
